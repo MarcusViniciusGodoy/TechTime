@@ -11,6 +11,15 @@ O projeto consiste em um sistema de controle de pontos, onde o objetivo do proje
 ## UML
 ![Func](https://github.com/MarcusViniciusGodoy/assets/blob/main/func.PNG)
 
+## Exemplo do primeiro registro
+![First](https://github.com/MarcusViniciusGodoy/assets/blob/main/primeiroRegistro.PNG)
+
+## Exemplo do segundo registro
+![Second](https://github.com/MarcusViniciusGodoy/assets/blob/main/segundoRegistro.PNG)
+
+## Exemplo da listagem de registros
+![List](https://github.com/MarcusViniciusGodoy/assets/blob/main/listaCadastro.PNG)
+
 ### Pré-requisitos
  Para executar este projeto, é necessário ter:
  - [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) (versão 11 ou superior)
