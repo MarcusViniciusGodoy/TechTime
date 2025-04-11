@@ -3,9 +3,9 @@
 
 # Sobre o projeto
 
-Projeto TechTime Solutions, é uma parte de um projeto voltado à aplicação de conceitos de Programação Orientada a Objetos.
+Projeto TechTime Solutions, é uma parte de um projeto proposto pelo Prof.Me. Marcos Roberto de Moraes (Maromo), voltado à aplicação de conceitos de Programação Orientada a Objetos.
 
-O projeto consiste em um sistema de controle de pontos, onde o objetivo do projeto é estruturar projeto completo com camadas, boas práticas, validação, controle de ponto de funcionários, fornecendo funcionalidades como registro de entrada e saída. 
+O projeto consiste em um sistema de controle de pontos, onde o objetivo é estruturar o projeto completo com camadas, boas práticas, validações, controle de ponto de funcionários, fornecendo funcionalidades como registro de funcionários e listagem de cadastros. 
 
 
 ## UML
